@@ -27,7 +27,7 @@
 <img width="207" height="103" alt="image" src="https://github.com/user-attachments/assets/96c462db-a915-4388-9ed5-2a574603b46a" />
 <img width="235" height="87" alt="image" src="https://github.com/user-attachments/assets/e1fd2152-1225-4219-b9cc-3368ee0abfcc" />  
 ## 4. Обработка исключений  
-try catch присутствует  
+try catch присутствует, неправильные id ловятся, неправильные почты караются смертью
 ## 5. Логирование  
 присутствует  
 <img width="383" height="89" alt="image" src="https://github.com/user-attachments/assets/7ab30cbd-bcdd-4942-969e-65de3037644a" />
