@@ -1,0 +1,6 @@
+@KT6_Neyaskin_HostAddress = http://localhost:5108
+
+GET {{KT6_Neyaskin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
